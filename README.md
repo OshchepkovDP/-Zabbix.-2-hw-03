@@ -43,8 +43,8 @@
 ....
 ```
 
-`При необходимости прикрепитe сюда скриншоты
-![Exercise_1.jpg](https://github.com/OshchepkovDP/-Zabbix.-2-hw-03/blob/main/img/Exercise_1.jpg)`
+При необходимости прикрепитe сюда скриншоты
+![Exercise_1.jpg](https://github.com/OshchepkovDP/-Zabbix.-2-hw-03/blob/main/img/Exercise_1.jpg)
 
 
 ---
@@ -78,8 +78,8 @@
 ....
 ```
 
-`При необходимости прикрепитe сюда скриншоты
-![Exercise_2.jpg](https://github.com/OshchepkovDP/-Zabbix.-2-hw-03/blob/main/img/Exercise_2.jpg)`
+При необходимости прикрепитe сюда скриншоты
+![Exercise_2.jpg](https://github.com/OshchepkovDP/-Zabbix.-2-hw-03/blob/main/img/Exercise_2.jpg)
 
 
 ---
@@ -111,8 +111,8 @@
 ....
 ```
 
-`При необходимости прикрепитe сюда скриншоты
-![Exercise_2_3.jpg](https://github.com/OshchepkovDP/-Zabbix.-2-hw-03/blob/main/img/Exercise_2_3.jpg)`
+При необходимости прикрепитe сюда скриншоты
+![Exercise_2_3.jpg](https://github.com/OshchepkovDP/-Zabbix.-2-hw-03/blob/main/img/Exercise_2_3.jpg)
 
 ### Задание 4 
 
@@ -140,5 +140,5 @@
 ....
 ```
 
-`При необходимости прикрепитe сюда скриншоты
-![Exercise_4.jpg](https://github.com/OshchepkovDP/-Zabbix.-2-hw-03/blob/main/img/Exercise_4.jpg)`
+При необходимости прикрепитe сюда скриншоты
+![Exercise_4.jpg](https://github.com/OshchepkovDP/-Zabbix.-2-hw-03/blob/main/img/Exercise_4.jpg)
